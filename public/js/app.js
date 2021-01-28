@@ -16311,7 +16311,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("
   href: "#",
   target: "_blank"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)("img", {
-  src: "/images/laravue3.png",
+  src: "/images/Laravue3.png",
   alt: "Laravue logo"
 })], -1
 /* HOISTED */
