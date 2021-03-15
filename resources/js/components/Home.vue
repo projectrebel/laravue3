@@ -3,9 +3,9 @@
       <h2 class="text-center font-bold tracking-wide uppercase mb-4">Introducing</h2>
       <img class="max-w-full mb-8" src="/images/laravue3-logo.png" alt="Laravue logo" />
       <h1 class="text-2xl text-gray-700 text-center mb-12">
-          A project template featuring 
-          <a class="underline font-bold" href="https://laravel.com" target="_blank">Laravel</a>, 
-          <a class="underline font-bold" href="https://v3.vuejs.com" target="_blank">Vue 3</a>, 
+          A project template featuring
+          <a class="underline font-bold" href="https://laravel.com" target="_blank">Laravel</a>,
+          <a class="underline font-bold" href="https://v3.vuejs.org" target="_blank">Vue 3</a>,
           and <a class="underline font-bold" href="https://tailwindcss.com" target="_blank">TailwindCSS</a>
         </h1>
       <div class="flex justify-center mb-16">
