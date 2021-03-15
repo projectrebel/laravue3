@@ -10,18 +10,18 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "@vue/compiler-sfc": "^3.0.5",
-        "autoprefixer": "^10.2.3",
+        "@vue/compiler-sfc": "^3.0.7",
+        "autoprefixer": "^10.2.5",
         "axios": "^0.21",
         "browser-sync": "^2.26.14",
-        "browser-sync-webpack-plugin": "^2.2.2",
-        "laravel-mix": "^6.0.6",
-        "lodash": "^4.17.19",
-        "postcss": "^8.2.4",
-        "tailwindcss": "^2.0.2",
-        "vue-loader": "^16.1.0"
+        "browser-sync-webpack-plugin": "^2.3.0",
+        "laravel-mix": "^6.0.13",
+        "lodash": "^4.17.21",
+        "postcss": "^8.2.8",
+        "tailwindcss": "^2.0.3",
+        "vue-loader": "^16.1.2"
     },
     "dependencies": {
-        "vue": "^3.0.5"
+        "vue": "^3.0.7"
     }
 }
